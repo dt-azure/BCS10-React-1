@@ -1,0 +1,30 @@
+.container {
+    max-width: 70%;
+}
+
+.title {
+    font-size: 70px;
+    font-weight: 300;
+}
+
+.item {
+    border: 1px solid rgba(204, 204, 204, 0.7);
+    border-radius: 4px;
+}
+
+
+.card-header span {
+    color: #9f9f9f;
+    line-height: 130px;
+}
+
+.card-body {
+    border-left: 1px solid #ffff;
+    border-right: 1px solid #ffff;
+}
+
+.card-footer {
+    border-top: 1px solid #cccccc;
+    background: #f7f7f7;
+    border-radius: 4px;
+}
